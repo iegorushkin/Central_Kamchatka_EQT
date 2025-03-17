@@ -1,0 +1,6 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-12-05T02:03:18.954Z,45.336,150.1395,36,5.5,mww,,57,5.378,0.59,us,us60006m7z,2020-02-29T19:52:51.040Z,"177 km E of Kuril’sk, Russia",earthquake,7.3,1.2,0.093,11,reviewed,us,us
+2019-12-02T05:01:54.821Z,51.1867,-178.1001,28,6,mww,,57,0.578,1.03,us,us70006f6d,2021-11-17T03:56:40.586Z,"127 km SW of Adak, Alaska",earthquake,4.3,1.8,0.039,63,reviewed,us,us
+2019-11-24T00:54:01.053Z,51.3808,-175.5115,20,6.3,mww,,22,0.658,0.95,us,us70006cb6,2022-08-08T17:00:40.183Z,"95 km SE of Adak, Alaska",earthquake,3.9,1.8,0.031,99,reviewed,us,us
+2019-11-20T08:26:08.017Z,53.128,153.6799,496,6.3,mww,,16,2.421,0.94,us,us70006a9e,2020-02-14T22:02:06.040Z,"264 km NW of Ozernovskiy, Russia",earthquake,8.9,1.9,0.051,37,reviewed,us,us
+2019-10-26T00:41:25.501Z,52.3233,-170.1665,35,5.8,mww,,31,0.537,0.88,us,us6000632m,2021-10-10T16:56:06.365Z,"111 km SW of Nikolski, Alaska",earthquake,5.3,1.8,0.047,43,reviewed,us,us
